@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ehU51/1Y2G3+oGktmVkYwns0ZTgRcuaqpIZrHoII4G7k2oB5571Uj1QAlQ7XUDp1JZovGJK3n1RLqDs3gboSKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sivan\\OneDrive\\Masaüstü\\CsharpTutorial\\CsharpTutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sivan\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\sivan\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
